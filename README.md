@@ -78,6 +78,6 @@ This tool is for ham radio and general location reference only.
 
 ## Credits
 
-Developed by [UHPOWERUP](uhpowerup.com) (2E0UMR) with the help of AI.
+Developed by [UHPOWERUP](https://uhpowerup.com/) (2E0UMR) with the help of AI.
 
 NMEA, Maidenhead and OS Grid logic implemented in C# using .NET WinForms.
